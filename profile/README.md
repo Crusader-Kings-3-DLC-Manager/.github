@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release*`
+- [💾 Releases Page](https://github.com/Crusader-Kings-3-DLC-Manager/.github/releases) = `*Latest Release*`
 
 ---
 
